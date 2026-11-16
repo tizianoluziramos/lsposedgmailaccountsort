@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gmail Account Sort</string>
+    <string name="module_description">Sorts Gmail’s profile menu accounts A–Z by email address.</string>
+    <string-array name="module_scope">
+        <item>com.google.android.gm</item>
+    </string-array>
+</resources>

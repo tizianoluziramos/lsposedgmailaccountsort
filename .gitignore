@@ -1,0 +1,44 @@
+# Gradle and Android SDK
+.gradle/
+**/build/
+local.properties
+.kotlin/
+.cxx/
+.externalNativeBuild/
+.cmake/
+captures/
+*.prof
+
+# Android packages and signing
+*.apk
+*.aab
+*.apks
+*.dex
+*.idsig
+*.jks
+*.keystore
+*.p12
+*.pfx
+/keystore/
+keystore.properties
+signing.properties
+.env
+.env.*
+!.env.example
+
+# Android Studio, IntelliJ and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.vscode/
+*.swp
+*.swo
+
+# Logs and operating system files
+*.log
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
