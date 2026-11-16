@@ -14,7 +14,7 @@ An LSPosed module that sorts Gmail accounts alphabetically (A–Z) by email addr
 Supported Gmail versions:
 
 - `2026.11.02.1015914183.Release`
-- `2026.11.09.1019722178.Release`
+- `2026.11.09.1019722178.Release` and above
 
 Supports both classic and Bento account switcher layouts.
 
