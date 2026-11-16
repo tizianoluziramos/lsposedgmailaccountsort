@@ -1,4 +1,4 @@
-package com.tizianoluziramos.lsposed.gmailaccountsort;
+package io.github.tizianoluziramos.lsposedgmailaccountsort;
 
 import android.app.Application;
 import android.content.Context;
