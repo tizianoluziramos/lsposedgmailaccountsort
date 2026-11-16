@@ -9,11 +9,11 @@ if (signingPropertiesFile.isFile()) {
 }
 
 android {
-    namespace 'io.github.gmailaccountsort'
+    namespace 'com.tizianoluziramos.lsposed.gmailaccountsort'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'io.github.gmailaccountsort'
+        applicationId 'com.tizianoluziramos.lsposed.gmailaccountsort'
         minSdk 24
         targetSdk 34
         versionCode 2

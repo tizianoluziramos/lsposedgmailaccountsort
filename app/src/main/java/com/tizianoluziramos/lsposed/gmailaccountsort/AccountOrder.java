@@ -1,4 +1,4 @@
-package io.github.gmailaccountsort;
+package com.tizianoluziramos.lsposed.gmailaccountsort;
 
 import java.util.ArrayList;
 import java.util.List;
