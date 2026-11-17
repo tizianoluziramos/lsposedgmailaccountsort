@@ -27,7 +27,7 @@ final class AccountOrder {
             }
         }
 
-        rows.sort((first, second) -> first.address.compareToIgnoreCase(second.address));
+        rows.sort((first, second) -> first.address.replace("@", "0@").compareToIgnoreCase(second.address.replace("@", "0@")));
         List<Object> ordered = new ArrayList<>(accounts);
         boolean changed = false;
         for (int index = 0; index < rows.size(); index++) {
